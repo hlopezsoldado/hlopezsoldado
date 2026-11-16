@@ -1,12 +1,12 @@
-<!-- BANNER PRINCIPAL ANIMADO -->
+<!-- BANNER PRINCIPAL CON ANIMACIÓN -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=230&section=header&text=Hugo%20L%C3%B3pez&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DAM%20Student%20%7C%20Junior%20Software%20%26%20Web%20Developer&descAlignY=58&descSize=21" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=210&section=header&text=Hugo%20L%C3%B3pez&fontSize=50&fontColor=ffffff&animation=scaleIn&fontAlignY=35&desc=Desarrollo%20de%20Aplicaciones%20Multiplataforma&descAlignY=58&descSize=16" width="100%" />
 </div>
 
 <!-- TEXTO DE ESCRITURA DINÁMICA -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Multiplataforma+(DAM);Aprendiendo+y+construyendo+con+Java%2C+Spring+Boot+y+PHP;Desarrollo+web+con+Thymeleaf%2C+HTML%2C+CSS+y+JavaScript;Bases+de+datos+relacionales+y+NoSQL+con+MySQL+y+MongoDB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=79C0FF&background=0D1117&center=true&vCenter=true&width=620&height=55&lines=Aprendiendo+y+desarrollando+software+real;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PHP+%E2%80%A2+Python;Thymeleaf+%E2%80%A2+HTML5+%E2%80%A2+CSS3+%E2%80%A2+JavaScript;Proyecto+Nothingan+Pris+S.A.+(GitLab)" alt="Typing SVG" />
   </a>
 </div>
 
