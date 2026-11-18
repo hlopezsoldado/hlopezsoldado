@@ -6,7 +6,7 @@
 <!-- TEXTO DE ESCRITURA DINÁMICA -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=79C0FF&background=0D1117&center=true&vCenter=true&width=620&height=55&lines=Learning+and+building+real-world+software;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PHP+%E2%80%A2+Python;Thymeleaf+%E2%80%A2+HTML5+%E2%80%A2+CSS3+%E2%80%A2+JavaScript;Nothingan+Pri+S.A.+Project+(GitHub+%26+GitLab)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=79C0FF&background=0D1117&center=true&vCenter=true&width=620&height=55&lines=Learning+and+building+real-world+software;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PHP+%E2%80%A2+Python;Thymeleaf+%E2%80%A2+HTML5+%E2%80%A2+CSS3+%E2%80%A2+JavaScript;Nothingan+Pri+S.A.+Project+(GitHub)" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/hugolopezsol" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://github.com/hlopezsoldado/nothingan-pri-sa" target="_blank">
+  <a href="https://github.com/hlopezsoldado/Nothingan-Pri-S.A." target="_blank">
     <img src="https://img.shields.io/badge/Project_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Project" />
   </a>
   <a href="mailto:h.lopez.soldado@gmail.com">
@@ -43,7 +43,7 @@ Hi! I'm **Hugo López**, a Higher Technician student in **Multiplatform Applicat
         <li>🎓 <b>Current Education:</b> Studying <b>DAM (Multiplatform Application Development)</b>, focused on layered software architecture and clean code.</li>
         <li>🔭 <b>Featured Project:</b> Co-developed <b>Nothingan Pri S.A.</b>, an integral ERP/CRM vehicle rental platform, leading the <b>Agent Management module</b>, real-time agent dashboard, and role-based security.</li>
         <li>🗄️ <b>Hybrid Data Persistence:</b> Experience combining relational databases (<b>MySQL / JPA</b>) with document-based NoSQL storage (<b>MongoDB</b>).</li>
-        <li>🤝 <b>Agile Teamwork:</b> Hands-on experience working in Scrum sprints using <b>Jira</b>, UI prototyping in <b>Figma</b>, and version control on <b>GitHub</b> & <b>GitLab</b>.</li>
+        <li>🤝 <b>Agile Teamwork:</b> Hands-on experience working in Scrum sprints using <b>Jira</b>, UI prototyping in <b>Figma</b>, and version control on <b>GitHub</b>.</li>
         <li>📍 <b>Location:</b> Barcelona / Terrassa, Spain.</li>
       </ul>
     </td>
@@ -140,11 +140,11 @@ Languages, frameworks, databases, tools, and operating systems I work with durin
         <li><b>QA:</b> Service unit testing with <b>JUnit 5</b>.</li>
       </ul>
       <p>
-        <a href="https://github.com/hlopezsoldado/nothingan-pri-sa" target="_blank">
+        <a href="https://github.com/hlopezsoldado/Nothingan-Pri-S.A." target="_blank">
           <img src="https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project on GitHub" />
         </a>
         &nbsp;
-        <a href="https://github.com/hlopezsoldado/nothingan-pri-sa/blob/main/Memoria%20Nothingan%20Pri%20S.A.pdf" target="_blank">
+        <a href="https://github.com/hlopezsoldado/Nothingan-Pri-S.A./blob/main/Memoria%20Nothingan%20Pri%20S.A.pdf" target="_blank">
           <img src="https://img.shields.io/badge/Docs_&_Manual-PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Read PDF Documentation" />
         </a>
       </p>
