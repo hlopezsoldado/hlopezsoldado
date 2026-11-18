@@ -6,7 +6,7 @@
 <!-- TEXTO DE ESCRITURA DINÁMICA -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=79C0FF&background=0D1117&center=true&vCenter=true&width=620&height=55&lines=Learning+and+building+real-world+software;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PHP+%E2%80%A2+Python;Thymeleaf+%E2%80%A2+HTML5+%E2%80%A2+CSS3+%E2%80%A2+JavaScript;Nothingan+Pris+S.A.+Project+(GitLab)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=79C0FF&background=0D1117&center=true&vCenter=true&width=620&height=55&lines=Learning+and+building+real-world+software;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PHP+%E2%80%A2+Python;Thymeleaf+%E2%80%A2+HTML5+%E2%80%A2+CSS3+%E2%80%A2+JavaScript;Nothingan+Pri+S.A.+Project+(GitLab)" alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,18 +33,18 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Hugo López**, a Higher Technician student in **Multiplatform Application Development (DAM)**. I am currently strengthening my foundations in object-oriented programming, backend development, and web environments, applying everything I learn to real-world hands-on projects.
+Hi! I'm **Hugo López**, a Higher Technician student in **Multiplatform Application Development (DAM)** at Institut Nicolau Copèrnic (Terrassa). I am currently strengthening my foundations in object-oriented programming, backend architecture, and web environments, applying everything I learn to real-world agile projects.
 
 <table>
   <tr>
     <td width="60%">
       <h3>🚀 My Profile & Learning Path</h3>
       <ul>
-        <li>🎓 <b>Current Education:</b> Studying <b>DAM (Multiplatform Application Development)</b>, focused on building structured and functional software.</li>
-        <li>🔭 <b>Featured Project:</b> Developed the <b>Agent Entry module</b> in <b>Nothingan Pris S.A.</b> using Java, Spring Boot, Thymeleaf, and web technologies.</li>
-        <li>🗄️ <b>Data & Backend:</b> Hands-on practice designing databases with <b>MySQL</b> and <b>MongoDB</b>, combined with server-side logic in <b>Java, Python, and PHP</b>.</li>
-        <li>🤝 <b>Teamwork:</b> Experience collaborating in team workflows using branches, commits, and merges on <b>GitLab</b> and <b>GitHub</b>.</li>
-        <li>📍 <b>Location:</b> Spain.</li>
+        <li>🎓 <b>Current Education:</b> Studying <b>DAM (Multiplatform Application Development)</b>, focused on layered software architecture and clean code.</li>
+        <li>🔭 <b>Featured Project:</b> Co-developed <b>Nothingan Pri S.A.</b>, an integral ERP/CRM vehicle rental platform, leading the <b>Agent Management module (RF10–RF15)</b>, real-time agent dashboard, and role-based security.</li>
+        <li>🗄️ <b>Hybrid Data Persistence:</b> Experience combining relational databases (<b>MySQL / JPA</b>) with document-based NoSQL storage (<b>MongoDB</b>).</li>
+        <li>🤝 <b>Agile Teamwork:</b> Hands-on experience working in Scrum sprints using <b>Jira</b> and collaborative version control on <b>GitLab</b> & <b>GitHub</b>.</li>
+        <li>📍 <b>Location:</b> Barcelona / Terrassa, Spain.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -71,7 +71,7 @@ Languages, frameworks, and tools I work and learn with during my DAM studies:
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" alt="Databases" />
 
-### 🔧 Version Control & Environment
+### 🔧 Version Control & Agile Workflow
 <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode&perline=4" alt="Version Control and Environment" />
 
 </div>
@@ -83,19 +83,23 @@ Languages, frameworks, and tools I work and learn with during my DAM studies:
 <table>
   <tr>
     <td width="100%" valign="top">
-      <h3>🏢 Nothingan Pris S.A. — DAM Intermodular Project</h3>
+      <h3>🏢 Nothingan Pri S.A. — Integral Vehicle Rental ERP & CRM</h3>
       <p>
-        Enterprise management application developed collaboratively within the DAM program (Project 1 - Group 3). It integrates server-side logic, data persistence, and dynamic web interfaces under GitLab version control.
+        Full-stack web management platform built for a vehicle rental company in Terrassa (DAM Intermodular Project — Group 3). Designed to digitize fleet operations, client validation, bookings, vehicle delivery/return inspections, and automated deposit calculations.
       </p>
       <p>
-        <b>My Individual Contribution — Agent Entry Module:</b><br/>
-        • <b>Backend & Business Logic:</b> Implemented controllers and agent registration/entry workflows using <b>Java</b>, <b>Spring Boot</b>, and <b>PHP</b>.<br/>
-        • <b>Frontend & Dynamic Templates:</b> Built dynamic views, forms, and client-side validations with <b>Thymeleaf</b>, <b>HTML5</b>, <b>CSS3</b>, and <b>JavaScript</b>.<br/>
-        • <b>Persistence & Version Control:</b> Connected the module to <b>MySQL</b> databases and collaborated via branches and deliveries on <b>GitLab</b>.
+        <b>My Individual Contribution — Agent Module, Security & Real-Time Dashboard:</b><br/>
+        • <b>Agent Management (RF10–RF15):</b> Built full CRUD operations, DNI search, and multi-criteria filtering for agents using <b>Java</b>, <b>Spring Boot</b>, and <b>JPA/MySQL</b>.<br/>
+        • <b>Role-Based Security & Navigation:</b> Configured access control restricting agent management exclusively to administrators, fixed route redirections, and unified the sidebar layout across views.<br/>
+        • <b>Real-Time Dashboard & Frontend:</b> Implemented dynamic server-side templates with <b>Thymeleaf</b>, <b>HTML5</b>, <b>CSS3</b>, and <b>JavaScript</b> so the agent dashboard updates live without full page reloads, alongside unit testing (JUnit) for agent services.
       </p>
       <p>
         <a href="https://gitlab.com/ilazaro1/projecte1_grup3" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository_on_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="View on GitLab" />
+          <img src="https://img.shields.io/badge/View_Source_Code-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="View on GitLab" />
+        </a>
+        &nbsp;
+        <a href="./Memoria%20Nothingan%20Pri%20S.A..pdf" target="_blank">
+          <img src="https://img.shields.io/badge/Read_Technical_Documentation-PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Read PDF Documentation" />
         </a>
       </p>
     </td>
@@ -104,24 +108,26 @@ Languages, frameworks, and tools I work and learn with during my DAM studies:
 
 ---
 
-## 📊 GitHub Stats & Activity
+## ⚙️ Engineering & Development Practices
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hlopezsoldado&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=1f6feb" alt="General Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlopezsoldado&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=58a6ff" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlopezsoldado&theme=tokyonight&hide_border=true&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff" alt="Contribution Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hlopezsoldado&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏗️ Architecture & Data Design</h4>
+      <ul>
+        <li><b>Layered MVC Architecture:</b> Clean separation between entities, repositories, services, controllers, and Thymeleaf views.</li>
+        <li><b>Hybrid Persistence:</b> Relational integrity in <b>MySQL</b> for core business entities (clients, fleet, bookings) paired with <b>MongoDB</b> collections for documents, inspection photos, notifications, and system logs.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔒 Security, QA & Agile</h4>
+      <ul>
+        <li><b>Security & Testing:</b> Password hashing, HTTPS transport, role-based access control, and <b>JUnit</b> service unit tests.</li>
+        <li><b>Scrum & Jira Workflow:</b> Iterative 4-sprint development with backlog grooming, UML/ER modeling, Figma UI prototyping, and Git branch reviews.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
