@@ -98,9 +98,9 @@ Languages, frameworks, and tools I work and learn with during my DAM studies:
           <img src="https://img.shields.io/badge/View_Source_Code-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="View on GitLab" />
         </a>
         &nbsp;
-        <a href="./Memoria%20Nothingan%20Pri%20S.A..pdf" target="_blank">
-          <img src="https://img.shields.io/badge/Read_Technical_Documentation-PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Read PDF Documentation" />
-        </a>
+        <a href="https://github.com/hlopezsoldado/hlopezsoldado/blob/main/Memoria%20Nothingan%20Pri%20S.A.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Read_Technical_Documentation-PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Read PDF Documentation" />
+</a>
       </p>
     </td>
   </tr>
