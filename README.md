@@ -150,7 +150,7 @@ Languages, frameworks, databases, tools, and operating systems I work with durin
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/hlopezsoldado/hlopezsoldado/main/Gemini_Generated_Image_289by0289by0289b_2.jfif" width="100%" alt="Nothingan Pri S.A. Poster" />
+      <img src="./Gemini_Generated_Image_289by0289by0289b.jpg" width="100%" alt="Nothingan Pri S.A. Poster" />
     </td>
   </tr>
 </table>
